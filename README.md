@@ -1,6 +1,6 @@
 # mi_card_flutter
 
-A new Flutter project.
+A simple flutter application which shows self professional card.
 
 ## Getting Started
 
